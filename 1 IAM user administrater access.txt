@@ -1,0 +1,5 @@
+Problem statement:
+Find mobile price range using existing data
+
+1 IAM user administrater access
+2 AWS CLI
